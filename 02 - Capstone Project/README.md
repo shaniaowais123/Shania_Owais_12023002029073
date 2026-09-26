@@ -18,7 +18,7 @@ The project demonstrates the practical application of web automation and automat
 
 ### 💻 Source Code
 
-The complete implementation of the Selenium automation project, including the test framework, test cases, page objects, utilities, test data, reports, and supporting files.
+The complete implementation of the Selenium automation project, including the test framework, test cases, page objects, utilities, test data, reports, screenshots, and supporting files.
 
 **[📂 Open Source Code](Source%20Code/)**
 
@@ -32,6 +32,30 @@ A demonstration video showcasing the project implementation and execution.
 
 ---
 
+### 📊 Project Output
+
+This folder contains the main execution outputs of the project, including the Pytest terminal output, Unittest terminal output, and HTML report screenshot.
+
+**[📊 View Project Output](Outputs/)**
+
+---
+
+### 📸 Test Screenshots
+
+This folder contains screenshots showing the successful and failed test executions performed during the project.
+
+**[📸 View Test Screenshots](Source%20Code/screenshots/)**
+
+---
+
+### 📄 Project Report
+
+The complete project report documenting the Selenium automation project, its implementation, testing approach, and results.
+
+**[📄 Open Project Report](Capstone_Project_Report.pdf)**
+
+---
+
 ## 🔍 What This Project Demonstrates
 
 * Selenium WebDriver automation
@@ -40,6 +64,8 @@ A demonstration video showcasing the project implementation and execution.
 * Web application testing
 * Page Object Model implementation
 * Test execution and reporting
+* Pytest testing
+* Unittest testing
 * Practical use of automation testing tools
 
 ---
@@ -50,20 +76,23 @@ A demonstration video showcasing the project implementation and execution.
 
 ---
 
+## 📂 Quick Navigation
+
+| #  | Resource                                         | Description                            |
+| -- | ------------------------------------------------ | -------------------------------------- |
+| 01 | 💻 [Source Code](Source%20Code/)                 | Complete project implementation        |
+| 02 | 🎥 [Video](Video/video.md)                       | Project demonstration                  |
+| 03 | 📊 [Output](Outputs/)                            | Test execution outputs and HTML report |
+| 04 | 📸 [Screenshots](Source%20Code/screenshots/)     | Pass/Fail test screenshots             |
+| 05 | 📄 [Project Report](Capstone_Project_Report.pdf) | Complete capstone project report       |
+
+---
+
 ## 👩‍💻 Student
 
 **Shania Owais**
 
 **Capstone Project — Selenium Automation Testing**
-
----
-
-### 📂 Quick Navigation
-
-| Resource                                 | Description                     |
-| ---------------------------------------- | ------------------------------- |
-| 💻 [Source Code](Source%20Code/)         | Complete project implementation |
-| 🎥 [Video](Video/video.md)               | Project demonstration           |
 
 ---
 
