@@ -217,5 +217,3 @@ Institute of Engineering and Management, Kolkata
 
 **Project:** Selenium Python Automation Framework
 **Type:** Academic Capstone Project
-python -m unittest unittest_tests.test_login_unittest
-pytest --html=reports/report.html
