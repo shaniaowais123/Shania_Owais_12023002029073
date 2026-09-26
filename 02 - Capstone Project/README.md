@@ -20,23 +20,23 @@ The project demonstrates the practical application of web automation and automat
 
 The complete implementation of the Selenium automation project, including the test framework, test cases, page objects, utilities, test data, reports, screenshots, and supporting files.
 
-**[📂 Open Source Code](Source%20Code/)**
+**[📂 Open Source Code](01%20-%20Source%20Code/)**
 
 ---
 
-### 🎥 Project Demonstration
+### 🎥 Demonstration Video
 
 A demonstration video showcasing the project implementation and execution.
 
-**[▶️ Watch Project Demonstration](Video/video.md)**
+**[▶️ Watch Demonstration Video](02%20-%20Demonstration%20Video/video.md)**
 
 ---
 
-### 📊 Project Output
+### 📊 Project Outputs
 
 This folder contains the main execution outputs of the project, including the Pytest terminal output, Unittest terminal output, and HTML report screenshot.
 
-**[📊 View Project Output](Outputs/)**
+**[📊 View Project Outputs](03%20-%20Outputs/)**
 
 ---
 
@@ -44,7 +44,7 @@ This folder contains the main execution outputs of the project, including the Py
 
 This folder contains screenshots showing the successful and failed test executions performed during the project.
 
-**[📸 View Test Screenshots](Source%20Code/screenshots/)**
+**[📸 View Test Screenshots](04%20-%20Screenshots/)**
 
 ---
 
@@ -52,7 +52,7 @@ This folder contains screenshots showing the successful and failed test executio
 
 The complete project report documenting the Selenium automation project, its implementation, testing approach, and results.
 
-**[📄 Open Project Report](Capstone_Project_Report.pdf)**
+**[📄 Open Project Report](05%20-%20Capstone_Project_Report.pdf)**
 
 ---
 
@@ -78,13 +78,13 @@ The complete project report documenting the Selenium automation project, its imp
 
 ## 📂 Quick Navigation
 
-| #  | Resource                                         | Description                            |
-| -- | ------------------------------------------------ | -------------------------------------- |
-| 01 | 💻 [Source Code](Source%20Code/)                 | Complete project implementation        |
-| 02 | 🎥 [Video](Video/video.md)                       | Project demonstration                  |
-| 03 | 📊 [Output](Outputs/)                            | Test execution outputs and HTML report |
-| 04 | 📸 [Screenshots](Source%20Code/screenshots/)     | Pass/Fail test screenshots             |
-| 05 | 📄 [Project Report](Capstone_Project_Report.pdf) | Complete capstone project report       |
+| #  | Resource                                                          | Description                            |
+| -- | ----------------------------------------------------------------- | -------------------------------------- |
+| 01 | 💻 [Source Code](01%20-%20Source%20Code/)                         | Complete project implementation        |
+| 02 | 🎥 [Demonstration Video](02%20-%20Demonstration%20Video/video.md) | Project demonstration                  |
+| 03 | 📊 [Outputs](03%20-%20Outputs/)                                   | Test execution outputs and HTML report |
+| 04 | 📸 [Screenshots](04%20-%20Screenshots/)                           | Pass/Fail test screenshots             |
+| 05 | 📄 [Project Report](05%20-%20Capstone_Project_Report.pdf)         | Complete capstone project report       |
 
 ---
 
