@@ -16,13 +16,23 @@ The repository is organized into three main sections to provide a clear and stru
 
 Contains my initial laboratory work, assignment demonstrations, Python installation videos, and lab reports for Modules 1–4.
 
+**[📂 Open Lab Workbook & Initial Video Demonstrations](01%20-%20Lab%20Workbook%20and%20Initial%20Video%20Demonstrations/)**
+
+---
+
 ### 02 - Capstone Project
 
 Contains my **Selenium Automation Testing Capstone Project**, including the source code, demonstration video, test outputs, screenshots, and project report.
 
+**[🧪 Open Capstone Project](02%20-%20Capstone%20Project/)**
+
+---
+
 ### 03 - Certificates
 
 Contains certificates and records of completed courses related to **Python, Selenium WebDriver, Playwright, Robot Framework, and Test Automation**.
+
+**[🎓 Open Certificates](03%20-%20Certificates/)**
 
 ---
 
